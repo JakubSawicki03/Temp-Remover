@@ -13,7 +13,7 @@ There is two ways to use this script.
 4. You have more disk space available!
 
 # SECOND option - task scheduler
-This way provides you to remove temporary folders everyday or even hourly
+This way provides you to remove temporary folders everyday at a certain time or even hourly
 
 1. Open task scheduler
 2. Go to action tab
