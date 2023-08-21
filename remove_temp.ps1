@@ -10,6 +10,4 @@ Remove-Item -Path "C:\Windows\Temp" -Force -Recurse -ErrorAction SilentlyContinu
 
 Remove-Item -Path $driveName\`$recycle.bin -Recurse -Force -ErrorAction SilentlyContinue
 
-# Setting Default Policy
 
-Set-ExecutionPolicy Default
