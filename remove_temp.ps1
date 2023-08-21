@@ -1,6 +1,6 @@
 ﻿# REMOVING TEMP IN %APPDATA%
 
-Remove-Item -Path "C:\Users\jsawicki\AppData\Local\Temp" -Force -Recurse -ErrorAction SilentlyContinue
+Remove-Item -Path "C:\Users\YOUR_USERNAME\AppData\Local\Temp" -Force -Recurse -ErrorAction SilentlyContinue
 
 # REMOVING TEMP IN WINDOWS
 
